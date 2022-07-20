@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\BITI3143 EVOLUTIONARY COMPUTING\MINI PROJECT\project\project\main.cpp(25,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BITI3143 EVOLUTIONARY COMPUTING\MINI PROJECT\project\project\main.cpp(26,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\BITI3143 EVOLUTIONARY COMPUTING\MINI PROJECT\project\project\main.cpp(155,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\BITI3143 EVOLUTIONARY COMPUTING\MINI PROJECT\project\project\main.cpp(356,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  project.vcxproj -> D:\BITI3143 EVOLUTIONARY COMPUTING\MINI PROJECT\project\Debug\project.exe
